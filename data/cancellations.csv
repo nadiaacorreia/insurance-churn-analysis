@@ -1,0 +1,1001 @@
+﻿policy_id;customer_id;product_type;campaign_flag;sales_channel;customer_tenure_days;payment_type;premium_amount;annual_premium_equivalent;cancellation_category;high_value_customer
+1;17270;Auto;0;Telefone;828;Mensal;83.36;1000.35;Concorrência;0
+2;10860;Saúde;1;Balcão;39;Anual;1714.78;1714.78;Pressão;1
+3;15390;Vida;1;Balcão;788;Mensal;27.44;329.29;Concorrência;0
+4;15191;Auto;1;Balcão;997;Único;15604.38;15604.38;Insatisfação;1
+5;15734;Auto;0;Balcão;117;Mensal;26.57;318.79;Concorrência;0
+6;16265;Vida;0;Telefone;853;Mensal;91.15;1093.8;Concorrência;0
+7;10466;Saúde;0;Online;944;Anual;1629.09;1629.09;Concorrência;1
+8;14426;Auto;0;Balcão;611;Anual;649.84;649.84;Concorrência;0
+9;15578;Vida;0;Online;726;Mensal;81.39;976.71;Concorrência;0
+10;18322;Vida;1;Balcão;900;Mensal;62.16;745.95;Concorrência;0
+11;11685;Vida;1;Telefone;977;Único;11019.69;11019.69;Concorrência;1
+12;10769;Vida;1;Telefone;968;Mensal;127.07;1524.89;Concorrência;1
+13;16949;Auto;1;Balcão;969;Anual;1346.04;1346.04;Pressão;1
+14;12433;Auto;0;Telefone;454;Mensal;96.39;1156.7;Concorrência;0
+15;15311;Vida;0;Online;902;Anual;1520.12;1520.12;Mudança de vida;1
+16;15051;Vida;0;Balcão;447;Anual;851.94;851.94;Concorrência;0
+17;16420;Vida;1;Balcão;741;Mensal;78.18;938.18;Pressão;0
+18;11184;Vida;0;Balcão;899;Anual;1378.8;1378.8;Pressão;1
+19;14555;Auto;0;Online;615;Mensal;66.51;798.1;Mudança de vida;0
+20;13385;Vida;0;Telefone;466;Mensal;28.31;339.69;Mudança de vida;0
+21;16396;Vida;0;Online;624;Mensal;29.66;355.96;Mudança de vida;0
+22;18666;Vida;1;Telefone;744;Mensal;35.0;419.97;Administrativo;0
+23;19274;Saúde;1;Online;707;Anual;1596.7;1596.7;Administrativo;1
+24;12558;Vida;0;Telefone;990;Mensal;81.39;976.67;Administrativo;0
+25;17849;Auto;1;Online;705;Mensal;112.67;1352.1;Administrativo;1
+26;12047;Vida;1;Balcão;504;Mensal;71.08;852.94;Pressão;0
+27;12747;Auto;0;Online;683;Mensal;53.63;643.59;Administrativo;0
+28;19167;Saúde;0;Telefone;256;Mensal;65.13;781.62;Mudança de vida;0
+29;19998;Vida;0;Balcão;552;Anual;1478.92;1478.92;Pressão;1
+30;10189;Saúde;0;Telefone;573;Único;9842.96;9842.96;Concorrência;1
+31;12734;Auto;1;Balcão;866;Anual;1702.72;1702.72;Pressão;1
+32;13005;Auto;0;Online;597;Mensal;108.36;1300.34;Administrativo;1
+33;14658;Saúde;1;Telefone;906;Mensal;94.12;1129.48;Mudança de vida;0
+34;11899;Saúde;0;Balcão;448;Mensal;99.33;1191.91;Concorrência;0
+35;17734;Auto;0;Balcão;287;Mensal;142.51;1710.1;Insatisfação;1
+36;11267;Saúde;0;Balcão;561;Mensal;122.47;1469.59;Pressão;1
+37;11528;Vida;0;Telefone;622;Mensal;23.13;277.5;Administrativo;0
+38;13556;Auto;0;Balcão;120;Mensal;89.44;1073.26;Pressão;0
+39;13890;Vida;1;Telefone;394;Único;6851.75;6851.75;Concorrência;1
+40;18838;Saúde;0;Balcão;842;Mensal;117.33;1407.97;Pressão;1
+41;15393;Vida;1;Telefone;770;Mensal;47.71;572.5;Concorrência;0
+42;18792;Vida;0;Telefone;200;Mensal;132.73;1592.8;Concorrência;1
+43;18433;Vida;0;Balcão;499;Mensal;144.26;1731.12;Pressão;1
+44;17513;Auto;0;Online;703;Anual;609.28;609.28;Administrativo;0
+45;12612;Vida;0;Balcão;435;Mensal;134.74;1616.88;Concorrência;1
+46;17041;Vida;0;Online;414;Mensal;32.61;391.29;Administrativo;0
+47;19555;Vida;0;Balcão;344;Mensal;27.24;326.9;Concorrência;0
+48;16235;Saúde;0;Balcão;218;Mensal;36.8;441.59;Pressão;0
+49;15486;Auto;0;Balcão;31;Mensal;27.51;330.08;Insatisfação;0
+50;17099;Saúde;0;Balcão;687;Anual;1558.22;1558.22;Pressão;1
+51;19670;Saúde;0;Balcão;620;Anual;332.12;332.12;Pressão;0
+52;10775;Auto;1;Online;217;Anual;663.8;663.8;Administrativo;0
+53;18226;Saúde;1;Telefone;17;Mensal;33.49;401.86;Falta de necessidade;0
+54;13152;Vida;0;Balcão;711;Anual;700.86;700.86;Insatisfação;0
+55;11585;Vida;0;Online;696;Mensal;31.77;381.27;Mudança de vida;0
+56;13943;Vida;1;Balcão;794;Mensal;106.84;1282.09;Insatisfação;1
+57;17555;Vida;1;Telefone;538;Anual;447.99;447.99;Mudança de vida;0
+58;13073;Saúde;0;Telefone;611;Mensal;130.74;1568.88;Mudança de vida;1
+59;11021;Auto;1;Telefone;662;Mensal;126.23;1514.82;Mudança de vida;1
+60;13843;Vida;0;Telefone;666;Anual;261.31;261.31;Concorrência;0
+61;17989;Saúde;0;Balcão;175;Mensal;136.44;1637.33;Insatisfação;1
+62;19692;Saúde;1;Telefone;858;Mensal;23.76;285.15;Mudança de vida;0
+63;16873;Vida;0;Online;505;Mensal;51.15;613.85;Administrativo;0
+64;15675;Auto;1;Balcão;599;Anual;290.53;290.53;Pressão;0
+65;10161;Saúde;1;Telefone;438;Único;4121.56;4121.56;Concorrência;1
+66;14297;Vida;0;Balcão;783;Anual;1041.63;1041.63;Concorrência;0
+67;10995;Auto;0;Online;172;Mensal;123.56;1482.77;Concorrência;1
+68;17629;Saúde;0;Balcão;375;Mensal;63.94;767.25;Concorrência;0
+69;19467;Saúde;0;Balcão;535;Mensal;111.71;1340.56;Concorrência;1
+70;11016;Saúde;1;Online;248;Mensal;44.38;532.51;Concorrência;0
+71;17869;Saúde;0;Online;81;Mensal;117.58;1410.93;Administrativo;1
+72;16439;Auto;0;Balcão;454;Mensal;50.68;608.15;Concorrência;0
+73;17892;Vida;1;Balcão;664;Mensal;38.66;463.93;Pressão;0
+74;16863;Vida;0;Telefone;831;Único;2308.14;2308.14;Mudança de vida;1
+75;17916;Vida;1;Balcão;518;Mensal;43.67;524.02;Concorrência;0
+76;18529;Auto;0;Balcão;804;Mensal;86.67;1040.07;Concorrência;0
+77;10878;Vida;1;Telefone;278;Mensal;129.82;1557.88;Mudança de vida;1
+78;19268;Auto;0;Telefone;762;Único;2525.12;2525.12;Concorrência;1
+79;14887;Saúde;0;Balcão;424;Anual;1342.85;1342.85;Concorrência;1
+80;14859;Auto;0;Online;254;Anual;1260.78;1260.78;Concorrência;1
+81;16331;Auto;0;Telefone;684;Único;8329.0;8329.0;Concorrência;1
+82;18571;Auto;1;Telefone;69;Mensal;51.74;620.87;Falta de necessidade;0
+83;18684;Auto;1;Online;15;Mensal;78.51;942.17;Falta de necessidade;0
+84;17208;Saúde;1;Balcão;718;Mensal;140.36;1684.29;Insatisfação;1
+85;15276;Saúde;0;Balcão;991;Mensal;105.8;1269.59;Concorrência;1
+86;12062;Vida;0;Balcão;579;Mensal;70.54;846.48;Concorrência;0
+87;10064;Vida;0;Online;826;Mensal;37.08;445.0;Concorrência;0
+88;18006;Saúde;0;Balcão;416;Único;2332.01;2332.01;Pressão;1
+89;12568;Saúde;1;Online;226;Único;8938.55;8938.55;Concorrência;1
+90;15463;Vida;0;Balcão;939;Anual;1360.34;1360.34;Concorrência;1
+91;12027;Saúde;0;Balcão;35;Anual;434.1;434.1;Pressão;0
+92;12695;Auto;0;Telefone;824;Anual;1175.37;1175.37;Mudança de vida;0
+93;19687;Saúde;1;Balcão;14;Mensal;91.55;1098.55;Pressão;0
+94;15258;Auto;1;Balcão;995;Mensal;86.81;1041.77;Concorrência;0
+95;15618;Auto;1;Telefone;541;Anual;1316.59;1316.59;Mudança de vida;1
+96;16736;Auto;0;Balcão;399;Anual;1546.42;1546.42;Pressão;1
+97;10391;Saúde;0;Online;719;Mensal;61.99;743.86;Mudança de vida;0
+98;15892;Auto;1;Online;580;Único;12940.48;12940.48;Administrativo;1
+99;13561;Auto;1;Balcão;457;Mensal;40.88;490.59;Pressão;0
+100;16184;Auto;0;Telefone;763;Mensal;42.49;509.92;Mudança de vida;0
+101;13099;Vida;1;Online;155;Anual;656.16;656.16;Concorrência;0
+102;16278;Saúde;1;Balcão;397;Mensal;35.54;426.47;Concorrência;0
+103;18392;Vida;1;Balcão;794;Mensal;49.94;599.3;Insatisfação;0
+104;13104;Vida;1;Balcão;258;Mensal;33.83;406.0;Pressão;0
+105;17215;Saúde;0;Telefone;535;Anual;1521.93;1521.93;Concorrência;1
+106;12454;Auto;0;Balcão;471;Mensal;38.07;456.79;Concorrência;0
+107;18996;Auto;0;Online;22;Anual;1405.78;1405.78;Concorrência;1
+108;12731;Vida;1;Online;912;Mensal;26.23;314.75;Administrativo;0
+109;18154;Auto;1;Online;393;Mensal;143.31;1719.69;Administrativo;1
+110;19762;Saúde;1;Balcão;565;Único;7448.67;7448.67;Pressão;1
+111;15056;Auto;0;Balcão;896;Mensal;20.88;250.6;Insatisfação;0
+112;18110;Auto;1;Online;408;Único;5063.72;5063.72;Mudança de vida;1
+113;13840;Saúde;1;Balcão;28;Mensal;86.83;1041.97;Pressão;0
+114;11028;Vida;1;Balcão;584;Único;8711.69;8711.69;Pressão;1
+115;17385;Auto;1;Balcão;500;Mensal;87.92;1055.1;Pressão;0
+116;10502;Vida;1;Balcão;760;Mensal;103.33;1240.0;Concorrência;1
+117;16910;Vida;0;Telefone;428;Mensal;122.22;1466.68;Mudança de vida;1
+118;19062;Auto;0;Balcão;346;Mensal;72.66;871.97;Concorrência;0
+119;16938;Vida;0;Balcão;428;Anual;244.22;244.22;Pressão;0
+120;14488;Auto;0;Balcão;924;Mensal;130.49;1565.92;Pressão;1
+121;10206;Vida;1;Online;925;Mensal;69.52;834.19;Administrativo;0
+122;15134;Auto;1;Online;621;Mensal;84.49;1013.83;Concorrência;0
+123;15977;Vida;0;Balcão;684;Mensal;21.01;252.12;Concorrência;0
+124;17721;Auto;0;Online;937;Anual;1007.66;1007.66;Mudança de vida;0
+125;17035;Auto;1;Online;131;Mensal;148.24;1778.92;Concorrência;1
+126;11484;Vida;0;Telefone;441;Anual;674.1;674.1;Administrativo;0
+127;17858;Saúde;0;Telefone;53;Anual;856.85;856.85;Concorrência;0
+128;10863;Auto;0;Balcão;881;Anual;1312.02;1312.02;Insatisfação;1
+129;12790;Saúde;0;Balcão;929;Mensal;125.92;1511.08;Concorrência;1
+130;17408;Vida;0;Balcão;326;Anual;891.13;891.13;Insatisfação;0
+131;18755;Saúde;0;Balcão;390;Único;4408.17;4408.17;Concorrência;1
+132;15116;Saúde;0;Telefone;154;Anual;1703.01;1703.01;Administrativo;1
+133;16019;Auto;1;Balcão;336;Mensal;108.03;1296.35;Concorrência;1
+134;11757;Saúde;0;Balcão;372;Anual;425.67;425.67;Pressão;0
+135;17574;Saúde;1;Online;59;Anual;347.53;347.53;Pressão;0
+136;16374;Vida;0;Online;74;Anual;994.34;994.34;Administrativo;0
+137;16892;Saúde;0;Balcão;364;Mensal;48.61;583.34;Pressão;0
+138;11678;Saúde;1;Balcão;809;Mensal;53.02;636.22;Pressão;0
+139;13242;Vida;0;Balcão;173;Anual;1609.2;1609.2;Pressão;1
+140;14636;Auto;0;Online;150;Mensal;31.64;379.72;Mudança de vida;0
+141;11059;Saúde;0;Balcão;975;Anual;1355.97;1355.97;Concorrência;1
+142;16668;Saúde;1;Balcão;835;Mensal;55.25;662.98;Concorrência;0
+143;19914;Auto;0;Online;137;Mensal;118.84;1426.11;Concorrência;1
+144;13157;Saúde;0;Balcão;407;Mensal;113.91;1366.96;Pressão;1
+145;15915;Auto;1;Online;942;Mensal;20.96;251.53;Administrativo;0
+146;19789;Saúde;0;Balcão;889;Único;7943.77;7943.77;Insatisfação;1
+147;12693;Vida;1;Balcão;472;Anual;457.34;457.34;Concorrência;0
+148;13627;Saúde;1;Telefone;760;Anual;1591.31;1591.31;Concorrência;1
+149;19555;Saúde;1;Online;845;Mensal;133.31;1599.67;Mudança de vida;1
+150;15450;Auto;0;Balcão;817;Anual;892.62;892.62;Insatisfação;0
+151;11663;Vida;1;Online;196;Anual;933.26;933.26;Administrativo;0
+152;19721;Vida;0;Online;729;Mensal;59.43;713.12;Concorrência;0
+153;15592;Vida;0;Online;741;Mensal;113.16;1357.91;Concorrência;1
+154;17392;Vida;0;Balcão;921;Anual;799.51;799.51;Pressão;0
+155;11306;Auto;1;Telefone;199;Anual;657.76;657.76;Administrativo;0
+156;16776;Vida;0;Balcão;397;Único;4761.49;4761.49;Concorrência;1
+157;15864;Saúde;0;Balcão;438;Mensal;31.89;382.72;Pressão;0
+158;19474;Saúde;0;Balcão;867;Anual;1404.7;1404.7;Insatisfação;1
+159;17526;Saúde;1;Balcão;293;Mensal;21.64;259.65;Pressão;0
+160;18901;Auto;1;Telefone;873;Mensal;103.78;1245.4;Mudança de vida;1
+161;15575;Saúde;1;Balcão;246;Mensal;43.77;525.27;Pressão;0
+162;15530;Auto;0;Balcão;203;Mensal;50.21;602.55;Pressão;0
+163;14413;Saúde;0;Telefone;296;Mensal;102.63;1231.59;Concorrência;1
+164;13748;Vida;1;Balcão;780;Mensal;149.08;1788.99;Pressão;1
+165;10663;Auto;0;Balcão;767;Anual;1453.24;1453.24;Pressão;1
+166;11998;Vida;0;Balcão;145;Anual;592.31;592.31;Concorrência;0
+167;17994;Vida;1;Balcão;801;Mensal;42.88;514.6;Insatisfação;0
+168;11495;Auto;1;Balcão;792;Único;12377.62;12377.62;Insatisfação;1
+169;13304;Vida;1;Online;180;Mensal;77.74;932.93;Concorrência;0
+170;13763;Auto;1;Balcão;168;Mensal;37.82;453.8;Insatisfação;0
+171;15232;Saúde;1;Balcão;210;Anual;1585.05;1585.05;Pressão;1
+172;11853;Auto;0;Online;496;Mensal;126.09;1513.1;Administrativo;1
+173;16585;Auto;0;Online;566;Mensal;147.91;1774.89;Mudança de vida;1
+174;11291;Saúde;1;Balcão;971;Mensal;138.27;1659.2;Insatisfação;1
+175;13581;Auto;0;Online;785;Mensal;130.73;1568.79;Mudança de vida;1
+176;17554;Vida;1;Balcão;592;Anual;322.02;322.02;Concorrência;0
+177;17280;Auto;0;Balcão;513;Mensal;33.57;402.89;Insatisfação;0
+178;11636;Vida;0;Online;885;Mensal;93.97;1127.61;Concorrência;0
+179;13696;Saúde;1;Balcão;380;Mensal;89.09;1069.11;Pressão;0
+180;10698;Vida;1;Telefone;112;Anual;954.42;954.42;Concorrência;0
+181;14737;Saúde;1;Balcão;134;Mensal;71.58;858.99;Concorrência;0
+182;10854;Vida;0;Online;322;Anual;912.69;912.69;Administrativo;0
+183;18164;Auto;1;Balcão;985;Mensal;94.01;1128.1;Pressão;0
+184;15855;Auto;0;Online;807;Mensal;20.27;243.24;Mudança de vida;0
+185;17392;Auto;0;Online;467;Mensal;53.89;646.71;Administrativo;0
+186;16528;Vida;0;Telefone;239;Mensal;87.38;1048.52;Concorrência;0
+187;15249;Saúde;0;Balcão;667;Mensal;113.89;1366.66;Insatisfação;1
+188;15172;Saúde;0;Online;891;Mensal;42.64;511.68;Administrativo;0
+189;11707;Vida;1;Online;206;Único;9947.98;9947.98;Administrativo;1
+190;15791;Vida;1;Online;894;Mensal;112.88;1354.56;Concorrência;1
+191;19925;Saúde;1;Online;742;Anual;933.62;933.62;Concorrência;0
+192;15535;Auto;0;Online;432;Mensal;23.52;282.25;Mudança de vida;0
+193;14931;Saúde;1;Balcão;581;Mensal;78.4;940.86;Concorrência;0
+194;13510;Saúde;1;Balcão;619;Mensal;58.54;702.45;Pressão;0
+195;10202;Vida;1;Balcão;180;Único;7880.64;7880.64;Pressão;1
+196;14218;Vida;0;Balcão;391;Mensal;36.2;434.4;Pressão;0
+197;18958;Vida;0;Telefone;182;Mensal;104.82;1257.86;Mudança de vida;1
+198;14389;Auto;0;Online;672;Mensal;26.85;322.24;Concorrência;0
+199;12327;Vida;0;Telefone;462;Mensal;78.0;936.03;Concorrência;0
+200;18004;Vida;0;Balcão;359;Mensal;92.02;1104.21;Insatisfação;0
+201;12931;Vida;1;Telefone;911;Mensal;58.73;704.81;Mudança de vida;0
+202;17777;Auto;0;Telefone;961;Mensal;79.16;949.92;Administrativo;0
+203;10197;Auto;0;Online;643;Mensal;41.26;495.14;Mudança de vida;0
+204;17125;Auto;0;Online;503;Anual;714.43;714.43;Administrativo;0
+205;11930;Saúde;0;Balcão;629;Mensal;100.74;1208.93;Concorrência;1
+206;16287;Saúde;0;Telefone;13;Mensal;59.23;710.81;Concorrência;0
+207;18800;Vida;0;Online;102;Mensal;136.97;1643.6;Concorrência;1
+208;19339;Auto;0;Balcão;928;Anual;1220.31;1220.31;Concorrência;1
+209;14282;Auto;1;Balcão;15;Mensal;77.02;924.29;Pressão;0
+210;12511;Saúde;1;Telefone;297;Mensal;25.04;300.46;Concorrência;0
+211;19986;Auto;0;Telefone;627;Mensal;84.94;1019.3;Concorrência;0
+212;10659;Auto;0;Telefone;155;Mensal;119.42;1433.05;Mudança de vida;1
+213;12811;Saúde;1;Online;792;Mensal;54.52;654.27;Administrativo;0
+214;17098;Auto;0;Balcão;433;Anual;1498.57;1498.57;Concorrência;1
+215;16546;Auto;0;Balcão;899;Anual;632.82;632.82;Concorrência;0
+216;19561;Saúde;1;Balcão;617;Anual;1525.04;1525.04;Pressão;1
+217;11986;Saúde;0;Balcão;466;Mensal;31.08;373.02;Pressão;0
+218;18338;Vida;1;Balcão;750;Mensal;132.6;1591.25;Insatisfação;1
+219;12911;Saúde;0;Balcão;211;Mensal;84.89;1018.73;Pressão;0
+220;11734;Vida;0;Balcão;221;Mensal;58.55;702.6;Insatisfação;0
+221;11843;Saúde;0;Telefone;15;Mensal;54.46;653.58;Concorrência;0
+222;18680;Auto;1;Balcão;633;Anual;913.94;913.94;Insatisfação;0
+223;12976;Saúde;0;Telefone;385;Mensal;149.88;1798.52;Concorrência;1
+224;11959;Saúde;0;Online;900;Mensal;48.64;583.71;Concorrência;0
+225;15759;Vida;1;Balcão;456;Mensal;33.42;401.02;Pressão;0
+226;16694;Vida;0;Balcão;844;Mensal;96.05;1152.65;Pressão;0
+227;12385;Auto;0;Balcão;115;Mensal;83.51;1002.13;Insatisfação;0
+228;14736;Vida;1;Balcão;660;Anual;1057.75;1057.75;Insatisfação;0
+229;11802;Vida;0;Online;820;Mensal;106.7;1280.42;Administrativo;1
+230;18155;Saúde;1;Balcão;410;Anual;656.74;656.74;Concorrência;0
+231;18120;Auto;1;Balcão;105;Anual;1660.64;1660.64;Concorrência;1
+232;16616;Auto;1;Balcão;397;Anual;919.65;919.65;Pressão;0
+233;15534;Vida;0;Telefone;968;Mensal;36.78;441.37;Mudança de vida;0
+234;14061;Saúde;1;Online;461;Mensal;116.5;1397.99;Mudança de vida;1
+235;10262;Saúde;0;Online;858;Mensal;103.6;1243.24;Administrativo;1
+236;16287;Saúde;1;Balcão;818;Anual;732.56;732.56;Insatisfação;0
+237;18815;Saúde;0;Online;988;Mensal;100.8;1209.57;Administrativo;1
+238;19208;Vida;0;Online;910;Anual;582.98;582.98;Concorrência;0
+239;12049;Saúde;0;Online;425;Mensal;77.83;933.95;Administrativo;0
+240;15423;Saúde;1;Telefone;735;Mensal;136.92;1643.08;Administrativo;1
+241;14548;Auto;1;Balcão;513;Mensal;37.36;448.31;Pressão;0
+242;13108;Saúde;0;Telefone;463;Mensal;70.27;843.25;Concorrência;0
+243;17158;Saúde;0;Telefone;300;Mensal;126.75;1520.98;Concorrência;1
+244;17400;Saúde;1;Balcão;543;Anual;1752.41;1752.41;Pressão;1
+245;13170;Saúde;0;Balcão;202;Anual;948.12;948.12;Insatisfação;0
+246;19874;Auto;0;Telefone;989;Anual;1030.92;1030.92;Concorrência;0
+247;12255;Saúde;1;Balcão;159;Anual;1132.59;1132.59;Pressão;0
+248;11154;Saúde;0;Online;889;Anual;1694.46;1694.46;Concorrência;1
+249;14499;Auto;1;Telefone;768;Mensal;131.57;1578.8;Concorrência;1
+250;16295;Saúde;0;Online;788;Anual;506.14;506.14;Mudança de vida;0
+251;16197;Saúde;0;Balcão;982;Mensal;76.78;921.34;Insatisfação;0
+252;19888;Auto;0;Online;772;Mensal;80.32;963.84;Mudança de vida;0
+253;11648;Saúde;1;Balcão;524;Anual;1470.99;1470.99;Concorrência;1
+254;15539;Saúde;0;Online;402;Mensal;98.38;1180.51;Mudança de vida;0
+255;19637;Auto;1;Balcão;325;Mensal;105.05;1260.58;Concorrência;1
+256;14199;Vida;0;Online;85;Mensal;149.77;1797.19;Concorrência;1
+257;18445;Vida;1;Online;608;Mensal;29.74;356.94;Mudança de vida;0
+258;12557;Vida;0;Online;279;Único;5792.2;5792.2;Concorrência;1
+259;15592;Auto;0;Online;234;Mensal;73.03;876.32;Concorrência;0
+260;10098;Vida;1;Online;539;Mensal;65.21;782.54;Concorrência;0
+261;12200;Vida;0;Online;122;Mensal;22.81;273.77;Concorrência;0
+262;12961;Vida;0;Balcão;260;Mensal;31.93;383.17;Insatisfação;0
+263;14973;Vida;1;Online;242;Único;7429.0;7429.0;Mudança de vida;1
+264;14433;Vida;0;Balcão;850;Mensal;134.31;1611.75;Pressão;1
+265;12869;Saúde;1;Telefone;800;Mensal;86.85;1042.19;Administrativo;0
+266;10956;Saúde;0;Balcão;723;Anual;1081.14;1081.14;Insatisfação;0
+267;18352;Vida;1;Balcão;92;Único;3107.31;3107.31;Pressão;1
+268;15699;Vida;0;Online;134;Anual;1437.89;1437.89;Administrativo;1
+269;16944;Vida;0;Balcão;184;Anual;1412.8;1412.8;Pressão;1
+270;14493;Vida;1;Balcão;78;Mensal;96.49;1157.85;Falta de necessidade;0
+271;19492;Saúde;1;Online;56;Mensal;47.65;571.76;Pressão;0
+272;14911;Auto;0;Online;893;Mensal;32.61;391.35;Mudança de vida;0
+273;13987;Vida;0;Online;265;Anual;340.21;340.21;Administrativo;0
+274;19719;Saúde;1;Balcão;736;Mensal;97.05;1164.61;Pressão;0
+275;16015;Vida;0;Online;39;Mensal;127.25;1527.06;Administrativo;1
+276;11218;Auto;1;Balcão;290;Mensal;131.58;1579.0;Pressão;1
+277;14496;Auto;1;Online;933;Mensal;80.27;963.25;Concorrência;0
+278;14735;Saúde;0;Online;246;Mensal;121.96;1463.46;Administrativo;1
+279;14555;Vida;0;Online;257;Único;10217.93;10217.93;Mudança de vida;1
+280;19146;Auto;1;Balcão;377;Mensal;55.77;669.27;Concorrência;0
+281;18050;Vida;0;Balcão;504;Anual;860.82;860.82;Insatisfação;0
+282;13446;Vida;0;Balcão;34;Anual;1693.11;1693.11;Insatisfação;1
+283;11045;Vida;1;Balcão;595;Mensal;63.97;767.64;Insatisfação;0
+284;16893;Vida;0;Balcão;727;Mensal;138.8;1665.65;Concorrência;1
+285;11693;Auto;1;Online;499;Mensal;147.54;1770.43;Mudança de vida;1
+286;13436;Auto;0;Balcão;503;Mensal;106.04;1272.42;Pressão;1
+287;18754;Vida;0;Telefone;323;Anual;1514.35;1514.35;Administrativo;1
+288;15895;Saúde;0;Balcão;615;Mensal;117.44;1409.29;Concorrência;1
+289;13354;Auto;0;Online;384;Mensal;110.94;1331.27;Mudança de vida;1
+290;10225;Auto;0;Online;648;Mensal;59.9;718.81;Concorrência;0
+291;14893;Saúde;0;Balcão;946;Único;1204.64;1204.64;Insatisfação;1
+292;17022;Auto;1;Balcão;34;Anual;775.16;775.16;Pressão;0
+293;19151;Auto;0;Online;343;Anual;1280.42;1280.42;Mudança de vida;1
+294;15600;Auto;0;Balcão;364;Anual;399.95;399.95;Insatisfação;0
+295;17996;Vida;0;Telefone;125;Mensal;21.55;258.59;Mudança de vida;0
+296;19007;Saúde;0;Online;57;Anual;457.92;457.92;Administrativo;0
+297;17683;Auto;0;Telefone;747;Mensal;113.05;1356.55;Administrativo;1
+298;14642;Vida;0;Balcão;787;Anual;1757.56;1757.56;Insatisfação;1
+299;17679;Auto;0;Online;108;Anual;1773.58;1773.58;Mudança de vida;1
+300;18208;Vida;0;Online;468;Mensal;84.22;1010.61;Mudança de vida;0
+301;17339;Vida;0;Online;532;Anual;1596.19;1596.19;Concorrência;1
+302;19435;Vida;1;Balcão;606;Único;5390.98;5390.98;Concorrência;1
+303;12205;Vida;0;Online;414;Mensal;85.14;1021.62;Mudança de vida;0
+304;11069;Auto;0;Balcão;223;Anual;1133.51;1133.51;Insatisfação;0
+305;13444;Auto;1;Online;694;Mensal;37.84;454.07;Mudança de vida;0
+306;11060;Auto;0;Balcão;912;Mensal;141.9;1702.75;Pressão;1
+307;12327;Saúde;1;Telefone;512;Mensal;65.75;789.01;Mudança de vida;0
+308;13420;Vida;0;Balcão;730;Mensal;78.0;935.99;Pressão;0
+309;10301;Saúde;0;Telefone;457;Único;7599.3;7599.3;Mudança de vida;1
+310;10606;Saúde;0;Telefone;903;Anual;760.89;760.89;Concorrência;0
+311;13170;Saúde;0;Telefone;585;Anual;636.64;636.64;Administrativo;0
+312;10699;Vida;1;Online;267;Mensal;102.04;1224.44;Administrativo;1
+313;15088;Saúde;0;Balcão;853;Único;2325.85;2325.85;Pressão;1
+314;19331;Saúde;1;Telefone;130;Mensal;113.69;1364.33;Mudança de vida;1
+315;10190;Auto;0;Balcão;819;Anual;1041.88;1041.88;Pressão;0
+316;10980;Auto;0;Online;987;Mensal;98.75;1184.98;Mudança de vida;0
+317;12975;Saúde;0;Online;63;Mensal;102.14;1225.73;Concorrência;1
+318;16102;Saúde;0;Online;340;Anual;1062.2;1062.2;Concorrência;0
+319;11184;Auto;0;Balcão;793;Mensal;95.73;1148.75;Pressão;0
+320;13327;Vida;1;Online;250;Mensal;108.89;1306.71;Mudança de vida;1
+321;13394;Auto;1;Telefone;764;Mensal;117.91;1414.87;Mudança de vida;1
+322;18319;Auto;0;Balcão;539;Mensal;114.57;1374.83;Pressão;1
+323;11816;Saúde;1;Telefone;492;Mensal;133.05;1596.6;Administrativo;1
+324;15854;Vida;1;Balcão;196;Mensal;44.63;535.53;Pressão;0
+325;16709;Vida;1;Balcão;867;Mensal;72.15;865.79;Insatisfação;0
+326;10569;Saúde;0;Balcão;665;Mensal;143.21;1718.56;Insatisfação;1
+327;15442;Vida;1;Balcão;271;Anual;858.68;858.68;Concorrência;0
+328;11895;Auto;0;Telefone;962;Mensal;36.23;434.8;Administrativo;0
+329;12733;Vida;1;Balcão;373;Único;9857.47;9857.47;Concorrência;1
+330;13863;Vida;0;Balcão;500;Anual;410.81;410.81;Pressão;0
+331;17455;Auto;0;Balcão;440;Mensal;46.37;556.45;Insatisfação;0
+332;14014;Auto;1;Online;248;Anual;1797.38;1797.38;Administrativo;1
+333;11686;Vida;0;Online;313;Anual;1084.53;1084.53;Mudança de vida;0
+334;13009;Vida;1;Balcão;307;Único;5228.5;5228.5;Insatisfação;1
+335;17806;Vida;1;Balcão;85;Mensal;149.32;1791.85;Falta de necessidade;1
+336;10154;Saúde;1;Telefone;709;Mensal;145.65;1747.83;Concorrência;1
+337;11409;Vida;0;Balcão;342;Anual;927.55;927.55;Pressão;0
+338;10784;Saúde;1;Balcão;909;Anual;646.23;646.23;Pressão;0
+339;18096;Auto;0;Balcão;767;Anual;1547.9;1547.9;Insatisfação;1
+340;17560;Vida;0;Online;651;Mensal;113.03;1356.37;Mudança de vida;1
+341;17343;Auto;1;Balcão;483;Anual;1311.63;1311.63;Insatisfação;1
+342;17206;Auto;0;Online;836;Único;6102.73;6102.73;Administrativo;1
+343;15596;Vida;0;Balcão;932;Mensal;109.62;1315.49;Pressão;1
+344;15801;Auto;1;Telefone;292;Mensal;56.89;682.72;Administrativo;0
+345;12806;Saúde;0;Balcão;600;Mensal;110.2;1322.43;Insatisfação;1
+346;10537;Auto;0;Online;81;Anual;717.07;717.07;Mudança de vida;0
+347;15986;Saúde;1;Balcão;272;Anual;1424.41;1424.41;Concorrência;1
+348;11841;Saúde;0;Balcão;712;Anual;1206.81;1206.81;Concorrência;1
+349;18716;Saúde;1;Online;888;Mensal;30.06;360.76;Concorrência;0
+350;16971;Auto;1;Balcão;896;Mensal;86.67;1040.02;Concorrência;0
+351;15625;Auto;1;Telefone;951;Mensal;64.63;775.55;Administrativo;0
+352;12950;Saúde;1;Telefone;584;Mensal;62.71;752.57;Administrativo;0
+353;17992;Auto;0;Telefone;901;Anual;1179.52;1179.52;Concorrência;0
+354;14780;Vida;0;Balcão;21;Único;5722.84;5722.84;Concorrência;1
+355;12368;Vida;1;Online;150;Único;10814.15;10814.15;Administrativo;1
+356;16655;Vida;1;Balcão;775;Único;3027.88;3027.88;Concorrência;1
+357;18173;Vida;0;Telefone;564;Mensal;105.85;1270.21;Mudança de vida;1
+358;14495;Vida;0;Online;26;Mensal;125.2;1502.34;Concorrência;1
+359;19163;Auto;0;Telefone;72;Anual;1289.62;1289.62;Concorrência;1
+360;16002;Vida;0;Balcão;262;Único;8914.34;8914.34;Pressão;1
+361;16614;Saúde;1;Online;474;Mensal;143.54;1722.48;Administrativo;1
+362;19358;Vida;0;Balcão;385;Mensal;58.99;707.9;Pressão;0
+363;15919;Auto;1;Online;813;Mensal;22.49;269.9;Mudança de vida;0
+364;10853;Auto;1;Balcão;990;Anual;913.9;913.9;Concorrência;0
+365;14146;Saúde;0;Online;529;Mensal;24.29;291.5;Concorrência;0
+366;13769;Auto;1;Online;846;Mensal;144.01;1728.14;Mudança de vida;1
+367;10574;Vida;0;Online;99;Mensal;47.29;567.47;Concorrência;0
+368;11148;Auto;0;Balcão;729;Mensal;122.56;1470.73;Insatisfação;1
+369;16293;Vida;1;Online;813;Anual;1448.33;1448.33;Mudança de vida;1
+370;16457;Auto;1;Balcão;805;Mensal;48.3;579.66;Concorrência;0
+371;17509;Vida;1;Balcão;639;Anual;1209.11;1209.11;Insatisfação;1
+372;19907;Saúde;0;Balcão;870;Anual;315.0;315.0;Insatisfação;0
+373;14777;Auto;0;Balcão;184;Anual;994.38;994.38;Insatisfação;0
+374;13854;Vida;1;Balcão;85;Mensal;21.9;262.85;Falta de necessidade;0
+375;12491;Vida;0;Online;622;Único;15222.69;15222.69;Mudança de vida;1
+376;13124;Vida;0;Balcão;935;Mensal;146.89;1762.69;Pressão;1
+377;15691;Vida;0;Balcão;672;Único;3461.26;3461.26;Insatisfação;1
+378;13051;Saúde;1;Telefone;409;Único;4452.26;4452.26;Administrativo;1
+379;10004;Vida;0;Balcão;791;Mensal;117.98;1415.8;Pressão;1
+380;15222;Vida;1;Online;979;Mensal;52.94;635.27;Concorrência;0
+381;15315;Vida;1;Online;80;Mensal;136.36;1636.32;Falta de necessidade;1
+382;14869;Auto;0;Telefone;189;Mensal;94.61;1135.33;Mudança de vida;0
+383;10876;Vida;0;Online;133;Mensal;65.6;787.21;Mudança de vida;0
+384;19183;Vida;0;Online;390;Mensal;128.25;1539.0;Mudança de vida;1
+385;17027;Vida;1;Telefone;302;Mensal;84.14;1009.71;Concorrência;0
+386;14142;Saúde;0;Balcão;806;Mensal;138.51;1662.15;Pressão;1
+387;16966;Auto;0;Telefone;204;Mensal;140.64;1687.7;Concorrência;1
+388;17079;Vida;0;Balcão;920;Mensal;41.5;498.06;Insatisfação;0
+389;17987;Vida;1;Telefone;237;Mensal;20.3;243.62;Concorrência;0
+390;16799;Auto;0;Balcão;440;Mensal;147.91;1774.93;Pressão;1
+391;14465;Auto;1;Online;951;Mensal;137.8;1653.57;Concorrência;1
+392;10635;Vida;1;Balcão;445;Mensal;27.21;326.49;Concorrência;0
+393;11693;Auto;0;Online;796;Anual;1539.53;1539.53;Administrativo;1
+394;19874;Auto;1;Balcão;470;Mensal;79.51;954.18;Concorrência;0
+395;14752;Vida;0;Telefone;627;Mensal;53.67;643.98;Concorrência;0
+396;18311;Auto;1;Telefone;30;Mensal;134.24;1610.84;Pressão;1
+397;10830;Auto;1;Balcão;73;Anual;546.8;546.8;Pressão;0
+398;15177;Saúde;1;Telefone;174;Anual;1717.79;1717.79;Mudança de vida;1
+399;19561;Vida;0;Online;36;Anual;560.77;560.77;Mudança de vida;0
+400;18932;Vida;0;Online;320;Anual;1197.35;1197.35;Concorrência;0
+401;18308;Auto;0;Balcão;294;Mensal;49.0;588.01;Pressão;0
+402;15949;Auto;0;Balcão;669;Mensal;90.94;1091.24;Pressão;0
+403;12838;Saúde;0;Balcão;290;Mensal;108.92;1307.0;Concorrência;1
+404;11150;Saúde;0;Balcão;847;Único;2618.16;2618.16;Pressão;1
+405;17560;Saúde;0;Telefone;840;Anual;1052.58;1052.58;Mudança de vida;0
+406;11931;Saúde;0;Balcão;173;Anual;971.73;971.73;Pressão;0
+407;19204;Vida;1;Telefone;907;Mensal;29.23;350.82;Concorrência;0
+408;11664;Vida;0;Balcão;927;Anual;1516.56;1516.56;Insatisfação;1
+409;11081;Auto;0;Online;233;Mensal;63.64;763.66;Mudança de vida;0
+410;10512;Vida;0;Online;793;Mensal;94.7;1136.35;Concorrência;0
+411;17805;Auto;0;Telefone;155;Mensal;86.92;1043.06;Administrativo;0
+412;15237;Vida;1;Balcão;974;Mensal;86.72;1040.69;Concorrência;0
+413;10559;Vida;0;Balcão;959;Mensal;33.94;407.27;Concorrência;0
+414;13672;Vida;1;Balcão;877;Anual;900.63;900.63;Concorrência;0
+415;17404;Saúde;1;Balcão;39;Mensal;78.81;945.69;Pressão;0
+416;13343;Auto;1;Balcão;54;Mensal;115.37;1384.48;Pressão;1
+417;14070;Vida;1;Balcão;796;Mensal;129.2;1550.43;Pressão;1
+418;19662;Auto;1;Balcão;480;Mensal;90.85;1090.17;Pressão;0
+419;10580;Saúde;1;Online;43;Anual;375.38;375.38;Falta de necessidade;0
+420;17004;Auto;1;Balcão;662;Anual;609.49;609.49;Concorrência;0
+421;18130;Vida;0;Balcão;436;Anual;497.3;497.3;Insatisfação;0
+422;13147;Auto;1;Balcão;839;Anual;434.4;434.4;Pressão;0
+423;14249;Auto;0;Online;895;Anual;810.8;810.8;Concorrência;0
+424;11679;Vida;1;Telefone;230;Mensal;49.82;597.85;Administrativo;0
+425;13506;Vida;0;Online;877;Anual;580.55;580.55;Concorrência;0
+426;17253;Auto;0;Online;543;Mensal;27.11;325.32;Administrativo;0
+427;12744;Auto;0;Balcão;701;Mensal;22.3;267.57;Concorrência;0
+428;19435;Vida;0;Online;957;Mensal;33.36;400.32;Administrativo;0
+429;15188;Auto;0;Balcão;376;Anual;508.63;508.63;Concorrência;0
+430;12141;Auto;0;Balcão;941;Anual;912.33;912.33;Concorrência;0
+431;16617;Auto;0;Online;850;Mensal;86.37;1036.41;Mudança de vida;0
+432;12479;Auto;0;Telefone;752;Anual;459.32;459.32;Mudança de vida;0
+433;16484;Auto;1;Balcão;924;Único;9022.43;9022.43;Insatisfação;1
+434;19827;Saúde;0;Online;559;Mensal;64.43;773.13;Mudança de vida;0
+435;17421;Vida;0;Online;591;Mensal;43.85;526.14;Administrativo;0
+436;19949;Vida;1;Balcão;125;Anual;250.67;250.67;Pressão;0
+437;14452;Auto;0;Balcão;248;Mensal;80.71;968.55;Concorrência;0
+438;15881;Auto;0;Balcão;344;Anual;1309.62;1309.62;Pressão;1
+439;16665;Vida;1;Balcão;450;Mensal;49.42;592.99;Pressão;0
+440;12849;Auto;1;Balcão;157;Mensal;37.13;445.62;Concorrência;0
+441;17390;Auto;0;Balcão;18;Anual;1623.79;1623.79;Pressão;1
+442;16905;Saúde;0;Balcão;297;Anual;669.04;669.04;Pressão;0
+443;12489;Saúde;1;Online;397;Anual;588.84;588.84;Mudança de vida;0
+444;19823;Saúde;1;Online;59;Anual;1577.07;1577.07;Falta de necessidade;1
+445;19207;Vida;0;Telefone;859;Anual;1514.69;1514.69;Mudança de vida;1
+446;19540;Vida;1;Balcão;526;Anual;939.42;939.42;Insatisfação;0
+447;14611;Vida;0;Online;925;Mensal;83.6;1003.21;Concorrência;0
+448;12839;Vida;0;Telefone;864;Mensal;48.31;579.69;Administrativo;0
+449;18527;Saúde;0;Online;647;Mensal;30.18;362.15;Administrativo;0
+450;15878;Saúde;1;Balcão;596;Anual;1134.55;1134.55;Insatisfação;0
+451;19087;Vida;0;Online;686;Mensal;32.78;393.42;Mudança de vida;0
+452;16303;Auto;1;Balcão;287;Mensal;78.41;940.87;Concorrência;0
+453;10851;Vida;0;Balcão;963;Mensal;142.26;1707.18;Pressão;1
+454;11687;Auto;0;Online;845;Anual;1726.42;1726.42;Concorrência;1
+455;16833;Auto;0;Online;998;Anual;613.36;613.36;Concorrência;0
+456;12427;Vida;1;Balcão;309;Mensal;101.13;1213.62;Concorrência;1
+457;19760;Saúde;0;Telefone;811;Anual;979.56;979.56;Concorrência;0
+458;14000;Vida;0;Online;598;Mensal;133.84;1606.07;Mudança de vida;1
+459;15052;Saúde;1;Balcão;819;Mensal;55.29;663.43;Insatisfação;0
+460;12738;Saúde;0;Telefone;658;Anual;245.78;245.78;Concorrência;0
+461;15732;Vida;1;Balcão;627;Mensal;41.13;493.6;Pressão;0
+462;15387;Saúde;0;Telefone;616;Único;3319.54;3319.54;Concorrência;1
+463;18002;Vida;1;Online;144;Mensal;61.04;732.52;Administrativo;0
+464;15536;Vida;0;Balcão;589;Mensal;122.88;1474.53;Concorrência;1
+465;13913;Saúde;1;Online;156;Único;3997.18;3997.18;Concorrência;1
+466;11066;Vida;0;Online;499;Mensal;58.94;707.31;Mudança de vida;0
+467;17723;Saúde;0;Online;487;Único;3856.07;3856.07;Mudança de vida;1
+468;14380;Saúde;0;Telefone;168;Único;3280.31;3280.31;Administrativo;1
+469;14107;Auto;0;Online;393;Mensal;136.76;1641.11;Administrativo;1
+470;15726;Vida;0;Online;172;Mensal;141.61;1699.26;Mudança de vida;1
+471;13373;Saúde;1;Telefone;450;Mensal;147.37;1768.49;Mudança de vida;1
+472;18945;Saúde;0;Online;862;Mensal;132.91;1594.94;Administrativo;1
+473;12082;Vida;1;Balcão;198;Mensal;42.61;511.38;Pressão;0
+474;18967;Auto;1;Telefone;424;Mensal;26.01;312.07;Mudança de vida;0
+475;16748;Auto;1;Balcão;348;Mensal;95.35;1144.17;Pressão;0
+476;19817;Saúde;0;Online;616;Mensal;138.64;1663.66;Mudança de vida;1
+477;10417;Auto;0;Telefone;190;Único;3165.88;3165.88;Concorrência;1
+478;18306;Auto;1;Online;297;Anual;250.99;250.99;Administrativo;0
+479;18808;Auto;1;Online;843;Anual;1496.57;1496.57;Mudança de vida;1
+480;13974;Auto;0;Online;196;Mensal;29.98;359.8;Mudança de vida;0
+481;13267;Auto;0;Balcão;893;Anual;885.38;885.38;Pressão;0
+482;10825;Vida;0;Telefone;147;Mensal;108.26;1299.06;Concorrência;1
+483;17668;Vida;1;Balcão;139;Anual;609.4;609.4;Pressão;0
+484;15745;Saúde;0;Balcão;203;Único;2275.05;2275.05;Insatisfação;1
+485;19708;Vida;0;Balcão;325;Mensal;120.1;1441.23;Concorrência;1
+486;10412;Saúde;1;Online;993;Anual;1223.07;1223.07;Mudança de vida;1
+487;17543;Vida;0;Online;794;Anual;1782.05;1782.05;Mudança de vida;1
+488;17587;Vida;0;Telefone;873;Único;7526.54;7526.54;Mudança de vida;1
+489;10728;Auto;1;Balcão;153;Anual;336.35;336.35;Insatisfação;0
+490;17164;Auto;1;Balcão;25;Mensal;115.47;1385.59;Falta de necessidade;1
+491;18867;Vida;0;Balcão;311;Mensal;87.83;1053.9;Pressão;0
+492;15988;Saúde;0;Balcão;432;Mensal;47.72;572.6;Concorrência;0
+493;12504;Auto;0;Online;254;Anual;1459.5;1459.5;Mudança de vida;1
+494;12967;Vida;0;Balcão;936;Mensal;46.49;557.86;Concorrência;0
+495;12786;Auto;1;Balcão;116;Anual;646.63;646.63;Insatisfação;0
+496;11122;Vida;0;Balcão;97;Mensal;32.03;384.34;Insatisfação;0
+497;14079;Vida;0;Balcão;138;Mensal;71.93;863.11;Insatisfação;0
+498;11571;Auto;0;Balcão;916;Mensal;74.46;893.53;Insatisfação;0
+499;15073;Vida;0;Balcão;896;Anual;1042.72;1042.72;Concorrência;0
+500;15104;Saúde;0;Online;350;Mensal;112.17;1345.98;Administrativo;1
+501;12143;Auto;1;Telefone;13;Mensal;137.79;1653.52;Pressão;1
+502;19879;Vida;0;Online;336;Mensal;37.91;454.87;Mudança de vida;0
+503;16806;Saúde;1;Telefone;419;Mensal;27.07;324.78;Mudança de vida;0
+504;17357;Auto;1;Balcão;888;Mensal;22.41;268.91;Concorrência;0
+505;13440;Vida;0;Online;315;Anual;464.05;464.05;Concorrência;0
+506;13766;Auto;0;Telefone;917;Mensal;105.53;1266.4;Concorrência;1
+507;15644;Saúde;0;Balcão;616;Mensal;114.57;1374.86;Insatisfação;1
+508;12914;Saúde;0;Telefone;730;Anual;1466.95;1466.95;Administrativo;1
+509;14968;Saúde;0;Balcão;234;Único;5852.96;5852.96;Insatisfação;1
+510;15917;Vida;0;Balcão;980;Anual;717.2;717.2;Concorrência;0
+511;18787;Auto;0;Balcão;357;Mensal;82.81;993.69;Concorrência;0
+512;10728;Auto;1;Online;330;Anual;338.57;338.57;Mudança de vida;0
+513;11365;Saúde;0;Online;568;Único;6179.76;6179.76;Mudança de vida;1
+514;14492;Auto;1;Online;997;Anual;1774.63;1774.63;Administrativo;1
+515;10698;Saúde;0;Balcão;190;Mensal;66.9;802.86;Pressão;0
+516;17186;Saúde;1;Balcão;627;Mensal;117.87;1414.44;Concorrência;1
+517;10395;Saúde;0;Balcão;720;Anual;1020.05;1020.05;Pressão;0
+518;17400;Saúde;0;Balcão;395;Mensal;36.62;439.39;Pressão;0
+519;18082;Saúde;1;Telefone;627;Mensal;95.69;1148.29;Administrativo;0
+520;14171;Auto;0;Balcão;801;Anual;707.8;707.8;Insatisfação;0
+521;14360;Saúde;0;Telefone;781;Anual;293.67;293.67;Mudança de vida;0
+522;12502;Vida;1;Telefone;117;Mensal;102.54;1230.49;Administrativo;1
+523;10717;Vida;0;Balcão;540;Anual;1579.93;1579.93;Insatisfação;1
+524;12782;Saúde;0;Online;419;Mensal;64.82;777.84;Concorrência;0
+525;14946;Auto;1;Balcão;980;Mensal;70.74;848.86;Pressão;0
+526;15486;Saúde;1;Balcão;305;Anual;1629.99;1629.99;Concorrência;1
+527;18335;Saúde;1;Balcão;827;Mensal;125.77;1509.23;Concorrência;1
+528;14980;Saúde;0;Online;180;Mensal;112.94;1355.33;Mudança de vida;1
+529;17266;Saúde;1;Balcão;340;Único;2803.57;2803.57;Concorrência;1
+530;14491;Vida;0;Online;502;Mensal;138.33;1659.94;Administrativo;1
+531;17192;Saúde;1;Online;204;Mensal;40.07;480.89;Concorrência;0
+532;15588;Auto;1;Balcão;21;Único;10886.03;10886.03;Falta de necessidade;1
+533;17651;Auto;1;Online;204;Anual;284.93;284.93;Mudança de vida;0
+534;13636;Saúde;1;Online;499;Anual;1244.2;1244.2;Mudança de vida;1
+535;11167;Vida;0;Balcão;804;Anual;672.35;672.35;Concorrência;0
+536;11062;Vida;1;Balcão;890;Mensal;78.46;941.5;Concorrência;0
+537;12156;Vida;1;Online;191;Anual;778.61;778.61;Concorrência;0
+538;17860;Saúde;0;Balcão;971;Mensal;42.46;509.5;Insatisfação;0
+539;15161;Vida;1;Online;826;Anual;1210.29;1210.29;Mudança de vida;1
+540;15305;Saúde;0;Balcão;665;Mensal;134.66;1615.88;Pressão;1
+541;16541;Saúde;1;Balcão;907;Anual;1736.17;1736.17;Insatisfação;1
+542;14729;Vida;1;Balcão;325;Mensal;45.01;540.06;Pressão;0
+543;19348;Saúde;1;Balcão;703;Mensal;113.26;1359.1;Insatisfação;1
+544;17330;Vida;0;Online;39;Anual;1276.37;1276.37;Mudança de vida;1
+545;15334;Saúde;0;Balcão;605;Anual;775.67;775.67;Concorrência;0
+546;18924;Vida;0;Online;687;Anual;269.79;269.79;Mudança de vida;0
+547;14330;Auto;1;Telefone;805;Mensal;109.67;1316.07;Concorrência;1
+548;18010;Vida;0;Online;802;Mensal;142.91;1714.97;Concorrência;1
+549;16801;Auto;0;Online;105;Anual;1226.11;1226.11;Mudança de vida;1
+550;14846;Saúde;1;Balcão;390;Anual;919.06;919.06;Pressão;0
+551;16731;Auto;0;Balcão;787;Anual;1059.24;1059.24;Pressão;0
+552;17241;Saúde;1;Online;453;Único;5151.45;5151.45;Administrativo;1
+553;10953;Auto;1;Balcão;307;Anual;1410.85;1410.85;Pressão;1
+554;12539;Auto;1;Online;817;Mensal;117.03;1404.41;Administrativo;1
+555;17056;Saúde;0;Balcão;746;Anual;467.01;467.01;Concorrência;0
+556;11542;Saúde;0;Online;854;Único;10931.4;10931.4;Administrativo;1
+557;15293;Saúde;0;Telefone;370;Anual;659.94;659.94;Mudança de vida;0
+558;11191;Saúde;0;Telefone;383;Anual;1772.32;1772.32;Administrativo;1
+559;16313;Vida;0;Online;563;Anual;837.33;837.33;Mudança de vida;0
+560;16938;Vida;0;Online;312;Mensal;43.12;517.5;Concorrência;0
+561;12681;Saúde;1;Online;430;Mensal;65.72;788.68;Administrativo;0
+562;19409;Saúde;1;Online;255;Mensal;77.22;926.68;Concorrência;0
+563;11540;Auto;0;Balcão;729;Único;2578.17;2578.17;Insatisfação;1
+564;16172;Saúde;1;Balcão;246;Anual;1142.02;1142.02;Pressão;0
+565;15541;Auto;1;Balcão;543;Mensal;97.69;1172.31;Pressão;0
+566;19580;Vida;1;Telefone;194;Único;6682.88;6682.88;Concorrência;1
+567;11365;Vida;1;Balcão;477;Mensal;23.79;285.51;Pressão;0
+568;18691;Vida;0;Online;763;Mensal;90.36;1084.33;Administrativo;0
+569;19872;Saúde;0;Online;372;Anual;322.54;322.54;Administrativo;0
+570;18702;Auto;0;Online;292;Anual;1333.78;1333.78;Administrativo;1
+571;17494;Vida;0;Online;562;Mensal;27.24;326.94;Concorrência;0
+572;14312;Auto;1;Balcão;345;Mensal;138.52;1662.3;Insatisfação;1
+573;11324;Saúde;1;Online;171;Mensal;111.27;1335.25;Administrativo;1
+574;19347;Saúde;0;Telefone;169;Mensal;85.96;1031.53;Administrativo;0
+575;13141;Saúde;0;Balcão;483;Mensal;77.4;928.75;Insatisfação;0
+576;17419;Vida;1;Balcão;610;Mensal;36.99;443.85;Pressão;0
+577;13486;Saúde;0;Online;331;Mensal;57.83;693.96;Mudança de vida;0
+578;11810;Saúde;0;Telefone;21;Mensal;132.96;1595.58;Concorrência;1
+579;16588;Vida;1;Balcão;433;Mensal;137.58;1650.95;Insatisfação;1
+580;12923;Saúde;0;Online;82;Mensal;20.1;241.17;Administrativo;0
+581;15301;Vida;0;Telefone;597;Anual;1166.85;1166.85;Mudança de vida;0
+582;14186;Saúde;0;Balcão;867;Anual;1362.11;1362.11;Pressão;1
+583;18905;Saúde;1;Telefone;210;Mensal;100.44;1205.25;Mudança de vida;1
+584;15977;Saúde;0;Online;531;Mensal;30.62;367.42;Mudança de vida;0
+585;14268;Saúde;0;Online;873;Mensal;48.3;579.65;Mudança de vida;0
+586;14748;Vida;0;Online;514;Mensal;52.54;630.53;Concorrência;0
+587;14849;Saúde;0;Balcão;747;Mensal;128.12;1537.49;Insatisfação;1
+588;19435;Vida;0;Balcão;697;Mensal;80.22;962.59;Concorrência;0
+589;13709;Vida;1;Balcão;797;Mensal;83.29;999.45;Pressão;0
+590;19273;Auto;0;Balcão;48;Anual;1698.43;1698.43;Pressão;1
+591;16619;Vida;1;Balcão;69;Mensal;102.82;1233.85;Pressão;1
+592;18647;Saúde;0;Telefone;587;Mensal;136.83;1641.92;Administrativo;1
+593;19086;Saúde;0;Telefone;330;Anual;952.15;952.15;Mudança de vida;0
+594;19576;Vida;0;Online;444;Mensal;39.43;473.12;Administrativo;0
+595;13072;Vida;0;Telefone;645;Mensal;140.89;1690.7;Mudança de vida;1
+596;16530;Vida;0;Online;685;Mensal;79.63;955.58;Administrativo;0
+597;10504;Auto;0;Balcão;417;Mensal;43.61;523.35;Concorrência;0
+598;11214;Saúde;0;Balcão;932;Anual;711.74;711.74;Pressão;0
+599;11531;Vida;1;Online;395;Mensal;26.6;319.25;Concorrência;0
+600;17576;Saúde;0;Online;680;Mensal;80.88;970.55;Mudança de vida;0
+601;10823;Saúde;1;Balcão;578;Mensal;130.91;1570.88;Concorrência;1
+602;10928;Vida;1;Online;87;Mensal;141.37;1696.39;Pressão;1
+603;15029;Saúde;0;Balcão;203;Anual;1694.86;1694.86;Insatisfação;1
+604;10133;Saúde;0;Online;294;Anual;435.36;435.36;Administrativo;0
+605;12105;Auto;0;Telefone;536;Mensal;69.67;836.0;Administrativo;0
+606;13627;Vida;0;Online;533;Mensal;23.67;284.04;Mudança de vida;0
+607;16316;Vida;0;Telefone;622;Mensal;131.17;1574.06;Concorrência;1
+608;11852;Vida;1;Telefone;165;Anual;799.66;799.66;Mudança de vida;0
+609;14910;Saúde;0;Telefone;349;Mensal;102.05;1224.54;Mudança de vida;1
+610;14175;Vida;0;Telefone;134;Mensal;112.94;1355.24;Concorrência;1
+611;15348;Saúde;1;Telefone;880;Mensal;75.88;910.56;Mudança de vida;0
+612;19442;Auto;0;Online;289;Mensal;59.84;718.05;Mudança de vida;0
+613;16190;Auto;1;Balcão;926;Mensal;145.09;1741.05;Concorrência;1
+614;11256;Saúde;0;Balcão;915;Mensal;145.38;1744.6;Pressão;1
+615;13376;Auto;0;Online;631;Mensal;57.63;691.52;Concorrência;0
+616;15645;Saúde;0;Balcão;855;Mensal;82.35;988.22;Pressão;0
+617;13486;Saúde;0;Balcão;878;Mensal;146.47;1757.64;Pressão;1
+618;13584;Vida;1;Telefone;667;Anual;247.59;247.59;Mudança de vida;0
+619;19588;Auto;0;Telefone;737;Mensal;73.65;883.78;Concorrência;0
+620;18053;Vida;1;Telefone;919;Mensal;33.06;396.71;Administrativo;0
+621;13330;Vida;0;Balcão;683;Anual;1034.29;1034.29;Pressão;0
+622;12703;Vida;0;Balcão;137;Mensal;23.21;278.49;Pressão;0
+623;18662;Saúde;0;Balcão;323;Anual;874.76;874.76;Concorrência;0
+624;18120;Vida;0;Balcão;341;Anual;584.29;584.29;Pressão;0
+625;17114;Vida;1;Balcão;159;Mensal;89.33;1071.96;Concorrência;0
+626;11353;Vida;0;Balcão;463;Único;15436.33;15436.33;Pressão;1
+627;15063;Vida;0;Telefone;45;Mensal;124.07;1488.84;Administrativo;1
+628;18549;Saúde;0;Online;694;Mensal;129.93;1559.2;Mudança de vida;1
+629;17575;Saúde;0;Balcão;429;Mensal;102.58;1231.01;Concorrência;1
+630;10667;Vida;0;Balcão;31;Mensal;25.4;304.83;Concorrência;0
+631;14468;Saúde;0;Online;215;Anual;562.6;562.6;Concorrência;0
+632;19337;Saúde;1;Balcão;648;Anual;1683.1;1683.1;Pressão;1
+633;16819;Vida;0;Telefone;857;Anual;811.14;811.14;Administrativo;0
+634;13719;Vida;0;Balcão;966;Único;2982.37;2982.37;Insatisfação;1
+635;12745;Auto;0;Balcão;365;Anual;1335.75;1335.75;Pressão;1
+636;17483;Saúde;0;Balcão;449;Anual;707.15;707.15;Pressão;0
+637;10539;Vida;1;Balcão;738;Mensal;54.95;659.42;Concorrência;0
+638;14964;Saúde;0;Online;105;Mensal;149.74;1796.84;Mudança de vida;1
+639;14835;Vida;0;Online;938;Mensal;131.56;1578.7;Concorrência;1
+640;13775;Saúde;1;Online;950;Anual;876.38;876.38;Concorrência;0
+641;16042;Vida;0;Balcão;173;Mensal;147.43;1769.21;Concorrência;1
+642;17102;Vida;0;Online;157;Mensal;104.51;1254.18;Administrativo;1
+643;17312;Vida;1;Online;539;Mensal;116.46;1397.56;Administrativo;1
+644;15320;Auto;1;Telefone;303;Mensal;24.1;289.16;Mudança de vida;0
+645;16132;Auto;1;Balcão;204;Mensal;35.81;429.7;Concorrência;0
+646;17891;Vida;0;Balcão;672;Mensal;102.3;1227.61;Pressão;1
+647;12779;Vida;0;Online;489;Anual;1642.48;1642.48;Concorrência;1
+648;10924;Auto;0;Online;886;Mensal;101.09;1213.04;Concorrência;1
+649;11581;Vida;0;Balcão;132;Anual;449.08;449.08;Pressão;0
+650;17714;Vida;1;Balcão;409;Mensal;35.05;420.59;Concorrência;0
+651;13324;Auto;0;Balcão;708;Mensal;129.74;1556.93;Pressão;1
+652;15713;Vida;1;Telefone;974;Mensal;38.11;457.31;Concorrência;0
+653;17026;Saúde;1;Balcão;461;Mensal;87.63;1051.56;Concorrência;0
+654;10255;Auto;0;Telefone;670;Mensal;24.82;297.9;Administrativo;0
+655;14804;Vida;0;Online;113;Mensal;30.49;365.84;Mudança de vida;0
+656;11838;Vida;1;Telefone;764;Mensal;107.41;1288.86;Concorrência;1
+657;10009;Vida;0;Telefone;471;Mensal;109.59;1315.12;Administrativo;1
+658;12871;Auto;1;Balcão;752;Mensal;64.39;772.69;Pressão;0
+659;18989;Auto;0;Telefone;727;Anual;576.35;576.35;Concorrência;0
+660;17409;Auto;0;Balcão;719;Anual;1509.39;1509.39;Pressão;1
+661;17418;Vida;0;Telefone;405;Mensal;48.22;578.68;Concorrência;0
+662;15124;Auto;1;Online;921;Único;7082.85;7082.85;Administrativo;1
+663;11015;Auto;0;Balcão;346;Mensal;145.87;1750.41;Insatisfação;1
+664;12193;Saúde;1;Online;608;Anual;470.65;470.65;Concorrência;0
+665;18415;Auto;0;Telefone;151;Anual;1707.77;1707.77;Concorrência;1
+666;17449;Auto;1;Balcão;326;Anual;525.31;525.31;Insatisfação;0
+667;14158;Saúde;1;Online;720;Mensal;93.77;1125.21;Mudança de vida;0
+668;13925;Saúde;0;Online;567;Mensal;69.01;828.13;Mudança de vida;0
+669;16970;Vida;0;Telefone;809;Mensal;145.44;1745.29;Concorrência;1
+670;16938;Vida;1;Balcão;536;Mensal;55.56;666.73;Insatisfação;0
+671;14784;Saúde;0;Balcão;565;Mensal;71.96;863.47;Insatisfação;0
+672;14000;Vida;1;Balcão;410;Mensal;147.77;1773.26;Pressão;1
+673;11633;Auto;0;Online;690;Mensal;89.74;1076.89;Mudança de vida;0
+674;17266;Auto;1;Balcão;319;Mensal;85.34;1024.1;Pressão;0
+675;18702;Auto;1;Telefone;504;Anual;642.13;642.13;Administrativo;0
+676;10384;Vida;1;Balcão;565;Anual;1334.13;1334.13;Insatisfação;1
+677;10404;Vida;0;Online;619;Único;897.68;897.68;Mudança de vida;0
+678;18175;Vida;0;Balcão;782;Mensal;26.44;317.24;Pressão;0
+679;12000;Saúde;0;Balcão;118;Anual;1175.0;1175.0;Concorrência;0
+680;19860;Auto;0;Balcão;804;Anual;773.01;773.01;Pressão;0
+681;15989;Auto;0;Balcão;381;Mensal;143.93;1727.17;Concorrência;1
+682;11460;Saúde;0;Online;864;Mensal;137.41;1648.98;Mudança de vida;1
+683;17190;Auto;1;Telefone;625;Único;12737.41;12737.41;Administrativo;1
+684;17140;Auto;0;Online;777;Mensal;126.36;1516.31;Administrativo;1
+685;13636;Vida;0;Telefone;900;Mensal;106.75;1281.04;Concorrência;1
+686;14809;Auto;1;Telefone;215;Mensal;36.33;435.91;Mudança de vida;0
+687;14178;Vida;0;Online;856;Mensal;119.52;1434.25;Mudança de vida;1
+688;17245;Vida;0;Telefone;52;Anual;567.9;567.9;Concorrência;0
+689;16600;Saúde;1;Online;874;Anual;744.57;744.57;Concorrência;0
+690;15997;Vida;1;Balcão;254;Mensal;126.5;1518.01;Pressão;1
+691;12048;Saúde;0;Online;296;Mensal;89.75;1076.98;Mudança de vida;0
+692;14780;Saúde;0;Balcão;364;Mensal;131.79;1581.51;Insatisfação;1
+693;10716;Saúde;1;Online;794;Mensal;47.69;572.34;Concorrência;0
+694;17939;Vida;0;Online;485;Mensal;99.01;1188.13;Mudança de vida;0
+695;15565;Saúde;0;Balcão;92;Anual;370.71;370.71;Pressão;0
+696;14544;Saúde;0;Balcão;119;Mensal;103.6;1243.18;Concorrência;1
+697;14976;Saúde;0;Telefone;959;Mensal;119.13;1429.55;Concorrência;1
+698;13419;Saúde;0;Online;199;Anual;1152.49;1152.49;Administrativo;0
+699;17239;Vida;0;Balcão;992;Mensal;54.61;655.32;Insatisfação;0
+700;19766;Saúde;1;Online;809;Anual;288.89;288.89;Mudança de vida;0
+701;10249;Vida;1;Online;945;Anual;426.34;426.34;Mudança de vida;0
+702;18865;Saúde;0;Online;918;Anual;1210.79;1210.79;Mudança de vida;1
+703;10770;Auto;1;Telefone;260;Mensal;141.47;1697.7;Administrativo;1
+704;14363;Saúde;1;Online;733;Mensal;46.85;562.19;Concorrência;0
+705;11077;Saúde;0;Balcão;300;Mensal;115.55;1386.64;Pressão;1
+706;18427;Auto;0;Telefone;654;Mensal;132.64;1591.66;Administrativo;1
+707;18580;Auto;1;Telefone;210;Anual;1052.58;1052.58;Mudança de vida;0
+708;17901;Auto;0;Balcão;806;Anual;1284.05;1284.05;Concorrência;1
+709;14858;Auto;1;Balcão;335;Anual;1511.42;1511.42;Concorrência;1
+710;16544;Vida;0;Balcão;520;Único;4725.85;4725.85;Pressão;1
+711;14719;Vida;1;Online;418;Anual;703.16;703.16;Mudança de vida;0
+712;12814;Saúde;0;Online;616;Mensal;20.08;240.98;Concorrência;0
+713;13374;Vida;0;Online;799;Mensal;145.2;1742.43;Concorrência;1
+714;11252;Saúde;1;Telefone;971;Anual;1671.37;1671.37;Concorrência;1
+715;16996;Vida;0;Online;950;Mensal;119.39;1432.73;Administrativo;1
+716;14673;Saúde;0;Balcão;846;Mensal;30.28;363.36;Concorrência;0
+717;14530;Auto;0;Balcão;517;Mensal;78.18;938.1;Pressão;0
+718;16881;Auto;0;Balcão;740;Anual;398.95;398.95;Pressão;0
+719;16949;Saúde;0;Balcão;610;Mensal;22.07;264.84;Insatisfação;0
+720;19521;Auto;1;Online;81;Anual;1201.25;1201.25;Pressão;1
+721;16241;Saúde;0;Telefone;256;Anual;1738.89;1738.89;Administrativo;1
+722;18017;Auto;1;Balcão;650;Mensal;137.37;1648.47;Pressão;1
+723;16941;Vida;1;Online;733;Mensal;110.58;1326.94;Mudança de vida;1
+724;19550;Auto;1;Online;949;Mensal;32.56;390.76;Mudança de vida;0
+725;17002;Saúde;0;Balcão;864;Anual;667.7;667.7;Concorrência;0
+726;11331;Vida;1;Balcão;617;Anual;739.29;739.29;Pressão;0
+727;14261;Vida;0;Balcão;596;Anual;1430.51;1430.51;Concorrência;1
+728;17648;Saúde;1;Balcão;944;Mensal;124.29;1491.51;Insatisfação;1
+729;19550;Vida;1;Telefone;575;Mensal;70.06;840.77;Administrativo;0
+730;15115;Vida;1;Balcão;353;Mensal;74.32;891.9;Insatisfação;0
+731;14637;Saúde;0;Balcão;980;Anual;309.43;309.43;Pressão;0
+732;14854;Saúde;1;Online;934;Mensal;57.59;691.05;Administrativo;0
+733;13177;Saúde;0;Telefone;63;Mensal;78.67;944.0;Mudança de vida;0
+734;17730;Auto;1;Balcão;739;Mensal;35.21;422.49;Insatisfação;0
+735;12180;Saúde;1;Balcão;537;Mensal;78.92;947.1;Pressão;0
+736;14892;Saúde;0;Balcão;620;Mensal;130.91;1570.95;Concorrência;1
+737;17043;Vida;1;Balcão;541;Mensal;95.57;1146.86;Concorrência;0
+738;10137;Auto;0;Balcão;567;Mensal;30.26;363.13;Insatisfação;0
+739;16327;Vida;0;Online;972;Mensal;44.92;539.01;Concorrência;0
+740;13472;Auto;0;Balcão;202;Anual;980.29;980.29;Concorrência;0
+741;15449;Auto;0;Balcão;904;Anual;803.92;803.92;Pressão;0
+742;12832;Saúde;1;Telefone;67;Mensal;66.63;799.61;Falta de necessidade;0
+743;13579;Vida;0;Balcão;446;Anual;1065.66;1065.66;Pressão;0
+744;15971;Auto;0;Balcão;120;Mensal;95.97;1151.66;Concorrência;0
+745;14164;Auto;1;Balcão;138;Mensal;123.59;1483.1;Concorrência;1
+746;17941;Vida;1;Telefone;858;Anual;771.91;771.91;Administrativo;0
+747;15569;Vida;1;Balcão;715;Anual;1496.53;1496.53;Insatisfação;1
+748;14300;Auto;1;Telefone;934;Anual;768.23;768.23;Concorrência;0
+749;16269;Vida;1;Online;861;Mensal;27.21;326.48;Concorrência;0
+750;13818;Auto;0;Balcão;335;Mensal;92.04;1104.53;Pressão;0
+751;11906;Saúde;0;Telefone;17;Anual;1157.13;1157.13;Concorrência;0
+752;16254;Vida;1;Balcão;38;Mensal;141.49;1697.88;Falta de necessidade;1
+753;10760;Auto;0;Balcão;121;Mensal;114.39;1372.66;Concorrência;1
+754;17830;Vida;1;Telefone;956;Anual;1671.73;1671.73;Concorrência;1
+755;17350;Saúde;0;Online;682;Anual;1657.02;1657.02;Mudança de vida;1
+756;16238;Vida;0;Online;140;Anual;1183.14;1183.14;Mudança de vida;0
+757;16090;Vida;0;Balcão;197;Mensal;88.61;1063.31;Insatisfação;0
+758;16031;Saúde;1;Balcão;684;Anual;1109.61;1109.61;Pressão;0
+759;17687;Saúde;0;Online;718;Mensal;147.18;1766.2;Mudança de vida;1
+760;19091;Saúde;1;Balcão;484;Mensal;120.51;1446.14;Concorrência;1
+761;19911;Auto;0;Balcão;373;Anual;405.77;405.77;Insatisfação;0
+762;18472;Saúde;0;Balcão;213;Mensal;121.2;1454.35;Insatisfação;1
+763;11887;Vida;1;Balcão;221;Mensal;42.17;506.04;Pressão;0
+764;13266;Vida;1;Telefone;630;Anual;937.87;937.87;Administrativo;0
+765;10666;Auto;0;Balcão;285;Mensal;47.36;568.32;Pressão;0
+766;14188;Auto;1;Telefone;82;Mensal;109.65;1315.75;Falta de necessidade;1
+767;10671;Saúde;0;Balcão;688;Mensal;134.05;1608.6;Pressão;1
+768;16777;Vida;0;Online;781;Mensal;57.75;692.96;Administrativo;0
+769;17570;Vida;0;Balcão;252;Mensal;30.66;367.94;Insatisfação;0
+770;17956;Auto;1;Balcão;796;Anual;705.65;705.65;Insatisfação;0
+771;15124;Auto;1;Balcão;111;Anual;1288.88;1288.88;Insatisfação;1
+772;15585;Saúde;0;Balcão;996;Mensal;62.74;752.87;Insatisfação;0
+773;14777;Auto;1;Online;694;Anual;673.85;673.85;Mudança de vida;0
+774;13900;Auto;0;Telefone;180;Mensal;43.98;527.72;Administrativo;0
+775;16677;Vida;0;Online;662;Mensal;84.68;1016.13;Mudança de vida;0
+776;16981;Saúde;0;Balcão;918;Anual;670.48;670.48;Concorrência;0
+777;16376;Vida;0;Balcão;197;Mensal;115.03;1380.38;Concorrência;1
+778;10523;Vida;0;Balcão;450;Único;1563.54;1563.54;Pressão;1
+779;12393;Auto;0;Online;95;Mensal;106.32;1275.89;Administrativo;1
+780;12593;Saúde;1;Online;485;Anual;610.59;610.59;Mudança de vida;0
+781;19945;Saúde;0;Telefone;61;Mensal;83.61;1003.28;Mudança de vida;0
+782;17240;Vida;0;Balcão;120;Mensal;57.19;686.3;Concorrência;0
+783;16937;Vida;0;Online;958;Mensal;113.96;1367.52;Concorrência;1
+784;16190;Vida;0;Balcão;886;Anual;1714.68;1714.68;Insatisfação;1
+785;15240;Vida;0;Online;863;Mensal;139.22;1670.64;Mudança de vida;1
+786;16493;Saúde;1;Online;52;Único;8332.46;8332.46;Pressão;1
+787;12878;Vida;0;Online;220;Mensal;80.14;961.67;Administrativo;0
+788;14143;Saúde;1;Online;977;Mensal;126.38;1516.55;Mudança de vida;1
+789;13644;Vida;1;Balcão;209;Mensal;108.83;1305.99;Pressão;1
+790;14432;Vida;0;Online;819;Anual;526.36;526.36;Concorrência;0
+791;11276;Vida;1;Balcão;867;Anual;1520.63;1520.63;Insatisfação;1
+792;15811;Saúde;0;Online;761;Mensal;75.75;909.06;Concorrência;0
+793;10302;Saúde;1;Balcão;636;Anual;534.82;534.82;Pressão;0
+794;10638;Saúde;0;Online;35;Mensal;56.63;679.6;Mudança de vida;0
+795;10055;Saúde;0;Telefone;928;Anual;657.34;657.34;Mudança de vida;0
+796;18717;Auto;0;Telefone;308;Anual;1049.96;1049.96;Administrativo;0
+797;18150;Vida;0;Telefone;86;Mensal;50.47;605.62;Mudança de vida;0
+798;12125;Vida;0;Online;933;Mensal;36.06;432.76;Administrativo;0
+799;10364;Auto;0;Online;146;Único;3352.06;3352.06;Administrativo;1
+800;16809;Saúde;0;Online;29;Anual;1149.91;1149.91;Administrativo;0
+801;14621;Vida;1;Telefone;449;Mensal;115.52;1386.22;Administrativo;1
+802;15126;Auto;1;Balcão;220;Mensal;61.8;741.59;Pressão;0
+803;15122;Auto;0;Telefone;761;Mensal;24.5;294.06;Mudança de vida;0
+804;11646;Vida;0;Telefone;560;Mensal;36.54;438.47;Concorrência;0
+805;10918;Saúde;1;Online;444;Anual;1666.92;1666.92;Mudança de vida;1
+806;12797;Saúde;1;Balcão;789;Anual;1009.93;1009.93;Concorrência;0
+807;16506;Saúde;1;Balcão;216;Mensal;78.96;947.57;Insatisfação;0
+808;15870;Vida;0;Telefone;448;Mensal;24.95;299.36;Administrativo;0
+809;11531;Vida;0;Balcão;983;Mensal;114.72;1376.67;Pressão;1
+810;18172;Saúde;0;Telefone;788;Mensal;88.65;1063.79;Administrativo;0
+811;13345;Saúde;0;Balcão;675;Mensal;46.27;555.25;Pressão;0
+812;17673;Auto;1;Balcão;51;Mensal;34.31;411.72;Pressão;0
+813;16949;Saúde;1;Telefone;420;Mensal;69.84;838.09;Concorrência;0
+814;16882;Vida;0;Online;532;Mensal;128.83;1545.97;Administrativo;1
+815;11906;Saúde;1;Online;815;Mensal;132.49;1589.86;Concorrência;1
+816;13086;Vida;0;Online;619;Mensal;98.37;1180.44;Administrativo;0
+817;18152;Saúde;0;Balcão;436;Mensal;114.58;1374.96;Concorrência;1
+818;15750;Saúde;0;Online;284;Mensal;34.97;419.64;Administrativo;0
+819;18905;Vida;1;Balcão;457;Mensal;96.46;1157.48;Pressão;0
+820;11062;Saúde;0;Telefone;911;Mensal;106.71;1280.47;Administrativo;1
+821;11976;Vida;1;Telefone;951;Mensal;46.09;553.11;Administrativo;0
+822;11296;Vida;1;Balcão;893;Anual;1613.04;1613.04;Pressão;1
+823;16229;Vida;0;Online;751;Único;3635.44;3635.44;Mudança de vida;1
+824;17641;Vida;0;Online;378;Anual;729.02;729.02;Mudança de vida;0
+825;10125;Auto;1;Balcão;947;Mensal;100.67;1208.07;Pressão;1
+826;14632;Saúde;0;Telefone;229;Anual;1235.83;1235.83;Concorrência;1
+827;16288;Vida;1;Balcão;586;Anual;1331.04;1331.04;Concorrência;1
+828;13596;Saúde;1;Balcão;876;Mensal;34.56;414.74;Insatisfação;0
+829;16168;Vida;0;Online;241;Mensal;130.43;1565.16;Concorrência;1
+830;19795;Auto;0;Online;337;Anual;1071.24;1071.24;Administrativo;0
+831;17561;Saúde;1;Online;452;Mensal;81.27;975.26;Mudança de vida;0
+832;18258;Auto;1;Online;61;Mensal;147.54;1770.51;Falta de necessidade;1
+833;10232;Vida;0;Online;895;Anual;1394.99;1394.99;Concorrência;1
+834;19361;Saúde;0;Online;952;Anual;424.09;424.09;Concorrência;0
+835;16371;Saúde;0;Balcão;385;Mensal;118.35;1420.2;Pressão;1
+836;14206;Auto;1;Balcão;272;Mensal;32.38;388.59;Insatisfação;0
+837;19685;Vida;1;Balcão;276;Mensal;23.57;282.85;Pressão;0
+838;17943;Vida;1;Balcão;368;Anual;869.66;869.66;Concorrência;0
+839;16891;Auto;0;Online;326;Mensal;149.17;1789.98;Mudança de vida;1
+840;16738;Saúde;0;Balcão;333;Mensal;42.73;512.82;Concorrência;0
+841;12472;Vida;1;Balcão;930;Anual;1289.33;1289.33;Pressão;1
+842;12739;Vida;0;Balcão;917;Mensal;42.54;510.5;Pressão;0
+843;15401;Auto;0;Telefone;675;Anual;1370.67;1370.67;Concorrência;1
+844;11761;Vida;0;Telefone;879;Mensal;85.7;1028.35;Mudança de vida;0
+845;10876;Auto;1;Online;887;Mensal;108.4;1300.76;Administrativo;1
+846;13812;Auto;1;Telefone;661;Anual;556.48;556.48;Administrativo;0
+847;19504;Vida;0;Online;948;Mensal;116.93;1403.18;Administrativo;1
+848;11460;Saúde;0;Online;572;Mensal;149.43;1793.17;Mudança de vida;1
+849;11733;Vida;1;Balcão;638;Mensal;106.53;1278.41;Insatisfação;1
+850;11605;Vida;1;Online;430;Anual;1009.83;1009.83;Concorrência;0
+851;15622;Auto;0;Online;55;Único;13486.09;13486.09;Administrativo;1
+852;16767;Auto;0;Online;830;Único;1871.68;1871.68;Mudança de vida;1
+853;16986;Saúde;0;Online;609;Mensal;114.89;1378.68;Concorrência;1
+854;13517;Saúde;1;Online;729;Mensal;135.54;1626.44;Concorrência;1
+855;13735;Vida;0;Online;898;Mensal;28.02;336.21;Mudança de vida;0
+856;19352;Vida;0;Telefone;278;Anual;942.1;942.1;Mudança de vida;0
+857;18434;Vida;1;Balcão;610;Mensal;46.61;559.36;Insatisfação;0
+858;12590;Vida;1;Online;390;Único;10826.82;10826.82;Administrativo;1
+859;11063;Vida;0;Balcão;127;Mensal;104.44;1253.29;Concorrência;1
+860;14324;Vida;1;Online;575;Único;2403.94;2403.94;Concorrência;1
+861;19111;Vida;0;Online;962;Anual;957.57;957.57;Mudança de vida;0
+862;15342;Vida;0;Balcão;125;Anual;675.77;675.77;Pressão;0
+863;10005;Saúde;0;Online;639;Mensal;68.02;816.25;Administrativo;0
+864;17489;Auto;1;Balcão;269;Mensal;40.74;488.88;Concorrência;0
+865;18659;Vida;0;Online;84;Mensal;135.12;1621.47;Administrativo;1
+866;18195;Auto;1;Balcão;489;Mensal;21.3;255.62;Concorrência;0
+867;15966;Auto;1;Online;314;Mensal;134.71;1616.56;Mudança de vida;1
+868;18837;Vida;1;Balcão;16;Mensal;94.32;1131.82;Falta de necessidade;0
+869;10117;Auto;1;Online;375;Mensal;63.12;757.39;Concorrência;0
+870;12551;Saúde;1;Balcão;643;Anual;1367.97;1367.97;Pressão;1
+871;15560;Saúde;0;Telefone;532;Anual;1032.09;1032.09;Administrativo;0
+872;14289;Vida;0;Telefone;357;Mensal;84.88;1018.61;Mudança de vida;0
+873;10846;Saúde;1;Telefone;447;Único;1541.75;1541.75;Mudança de vida;1
+874;16316;Vida;0;Online;224;Mensal;70.64;847.65;Concorrência;0
+875;16469;Saúde;1;Online;438;Mensal;51.34;616.06;Concorrência;0
+876;19333;Saúde;1;Balcão;800;Mensal;22.04;264.49;Concorrência;0
+877;18915;Saúde;0;Balcão;507;Anual;801.76;801.76;Pressão;0
+878;10224;Saúde;1;Balcão;549;Mensal;31.68;380.12;Pressão;0
+879;14208;Auto;0;Online;756;Mensal;53.39;640.65;Mudança de vida;0
+880;16283;Vida;0;Telefone;376;Anual;384.33;384.33;Mudança de vida;0
+881;12048;Vida;0;Balcão;322;Mensal;33.12;397.47;Pressão;0
+882;16233;Auto;0;Telefone;547;Anual;550.46;550.46;Concorrência;0
+883;19765;Vida;1;Online;930;Único;7587.27;7587.27;Concorrência;1
+884;11828;Vida;1;Online;63;Único;1906.17;1906.17;Falta de necessidade;1
+885;11917;Vida;1;Balcão;550;Mensal;103.03;1236.33;Concorrência;1
+886;14234;Vida;0;Balcão;476;Mensal;38.36;460.34;Insatisfação;0
+887;16988;Auto;0;Online;874;Mensal;139.68;1676.18;Mudança de vida;1
+888;12026;Saúde;1;Online;173;Mensal;32.17;386.07;Mudança de vida;0
+889;13744;Auto;0;Balcão;791;Mensal;144.16;1729.9;Concorrência;1
+890;19093;Saúde;1;Online;343;Mensal;99.42;1193.05;Concorrência;0
+891;10009;Saúde;1;Telefone;556;Único;1819.48;1819.48;Administrativo;1
+892;10260;Vida;1;Telefone;807;Único;15111.39;15111.39;Administrativo;1
+893;16038;Saúde;1;Telefone;357;Mensal;87.82;1053.87;Administrativo;0
+894;19865;Vida;0;Balcão;282;Mensal;54.15;649.76;Concorrência;0
+895;12219;Auto;1;Balcão;972;Mensal;119.75;1436.96;Insatisfação;1
+896;17041;Auto;0;Online;729;Mensal;140.47;1685.6;Mudança de vida;1
+897;12060;Vida;1;Balcão;759;Anual;994.56;994.56;Concorrência;0
+898;15287;Auto;0;Balcão;423;Anual;732.26;732.26;Insatisfação;0
+899;11619;Auto;1;Balcão;509;Anual;1470.75;1470.75;Pressão;1
+900;18512;Saúde;1;Balcão;102;Anual;1303.59;1303.59;Insatisfação;1
+901;11342;Vida;0;Balcão;694;Mensal;135.54;1626.45;Insatisfação;1
+902;12832;Saúde;0;Balcão;88;Anual;1320.32;1320.32;Concorrência;1
+903;12824;Saúde;1;Balcão;631;Mensal;51.66;619.9;Insatisfação;0
+904;11994;Vida;0;Balcão;226;Mensal;141.12;1693.39;Pressão;1
+905;13490;Vida;0;Online;956;Mensal;33.63;403.54;Administrativo;0
+906;19310;Auto;0;Online;367;Mensal;54.83;657.99;Administrativo;0
+907;17984;Vida;0;Online;627;Mensal;87.63;1051.5;Concorrência;0
+908;11604;Saúde;1;Balcão;516;Mensal;93.55;1122.56;Pressão;0
+909;10235;Auto;0;Balcão;568;Único;2145.42;2145.42;Pressão;1
+910;11908;Auto;0;Online;190;Mensal;121.47;1457.69;Concorrência;1
+911;18567;Vida;0;Online;585;Mensal;67.01;804.11;Mudança de vida;0
+912;13530;Auto;0;Online;255;Mensal;72.83;874.01;Mudança de vida;0
+913;15256;Vida;0;Balcão;253;Anual;1502.62;1502.62;Concorrência;1
+914;12635;Vida;0;Telefone;515;Mensal;69.31;831.68;Concorrência;0
+915;18162;Saúde;0;Balcão;431;Único;2057.21;2057.21;Insatisfação;1
+916;19762;Vida;0;Balcão;329;Anual;515.25;515.25;Pressão;0
+917;12560;Vida;1;Online;96;Mensal;144.27;1731.21;Concorrência;1
+918;15415;Saúde;0;Online;226;Anual;349.83;349.83;Administrativo;0
+919;13391;Vida;1;Balcão;499;Mensal;66.14;793.69;Pressão;0
+920;15951;Vida;0;Balcão;528;Mensal;85.41;1024.96;Pressão;0
+921;15468;Saúde;0;Online;287;Anual;1009.52;1009.52;Concorrência;0
+922;18007;Auto;1;Balcão;858;Mensal;20.51;246.18;Concorrência;0
+923;19064;Saúde;0;Balcão;731;Mensal;85.15;1021.81;Insatisfação;0
+924;19444;Vida;1;Balcão;178;Mensal;69.89;838.69;Pressão;0
+925;16413;Saúde;1;Telefone;339;Mensal;146.37;1756.44;Mudança de vida;1
+926;16941;Vida;0;Balcão;659;Único;4854.96;4854.96;Concorrência;1
+927;19506;Vida;1;Telefone;450;Mensal;66.04;792.48;Mudança de vida;0
+928;14820;Auto;1;Online;400;Anual;894.39;894.39;Concorrência;0
+929;12898;Vida;0;Telefone;505;Mensal;70.79;849.48;Concorrência;0
+930;17546;Vida;0;Telefone;390;Anual;1278.7;1278.7;Mudança de vida;1
+931;10077;Saúde;0;Balcão;315;Mensal;48.02;576.2;Concorrência;0
+932;17577;Saúde;1;Balcão;751;Mensal;48.74;584.87;Concorrência;0
+933;14227;Saúde;1;Balcão;996;Anual;1377.57;1377.57;Insatisfação;1
+934;10600;Vida;1;Balcão;829;Mensal;85.04;1020.45;Pressão;0
+935;11065;Vida;1;Online;682;Mensal;73.97;887.64;Mudança de vida;0
+936;12136;Vida;0;Balcão;522;Mensal;42.0;503.96;Insatisfação;0
+937;19510;Vida;0;Balcão;757;Anual;532.54;532.54;Insatisfação;0
+938;16943;Saúde;1;Balcão;958;Mensal;21.37;256.46;Pressão;0
+939;17804;Auto;0;Telefone;197;Único;1860.61;1860.61;Mudança de vida;1
+940;16565;Auto;1;Balcão;939;Mensal;92.39;1108.67;Pressão;0
+941;15984;Auto;0;Balcão;525;Mensal;135.94;1631.32;Concorrência;1
+942;15142;Saúde;0;Balcão;922;Anual;687.98;687.98;Concorrência;0
+943;14670;Saúde;1;Telefone;653;Anual;751.29;751.29;Administrativo;0
+944;12190;Vida;1;Online;436;Anual;420.34;420.34;Mudança de vida;0
+945;19184;Saúde;0;Balcão;511;Único;7474.5;7474.5;Concorrência;1
+946;12712;Saúde;1;Balcão;739;Mensal;24.84;298.07;Pressão;0
+947;12192;Vida;0;Balcão;269;Mensal;139.29;1671.46;Insatisfação;1
+948;11248;Vida;1;Balcão;522;Mensal;107.5;1290.05;Concorrência;1
+949;14033;Auto;1;Telefone;80;Anual;1785.57;1785.57;Pressão;1
+950;11997;Vida;1;Online;487;Anual;1617.2;1617.2;Concorrência;1
+951;13687;Vida;1;Balcão;187;Mensal;81.49;977.87;Pressão;0
+952;14018;Saúde;0;Telefone;466;Mensal;87.56;1050.71;Mudança de vida;0
+953;11970;Auto;0;Balcão;198;Mensal;44.77;537.3;Insatisfação;0
+954;18389;Saúde;1;Online;300;Anual;960.78;960.78;Concorrência;0
+955;15765;Saúde;0;Telefone;529;Mensal;137.39;1648.72;Administrativo;1
+956;11202;Vida;1;Balcão;774;Mensal;26.61;319.33;Insatisfação;0
+957;18135;Saúde;0;Online;929;Mensal;132.26;1587.15;Concorrência;1
+958;15567;Vida;1;Balcão;988;Anual;771.88;771.88;Pressão;0
+959;17667;Auto;1;Balcão;301;Anual;1643.24;1643.24;Pressão;1
+960;15742;Saúde;1;Balcão;955;Anual;1707.77;1707.77;Concorrência;1
+961;15788;Vida;0;Balcão;765;Mensal;107.21;1286.55;Pressão;1
+962;15408;Vida;1;Online;644;Mensal;106.38;1276.5;Concorrência;1
+963;18669;Vida;0;Telefone;820;Anual;946.3;946.3;Mudança de vida;0
+964;19446;Vida;0;Online;292;Único;9241.41;9241.41;Administrativo;1
+965;10922;Vida;1;Telefone;553;Mensal;145.01;1740.12;Administrativo;1
+966;10419;Saúde;1;Telefone;855;Mensal;120.76;1449.13;Mudança de vida;1
+967;12204;Saúde;1;Balcão;386;Mensal;100.85;1210.22;Pressão;1
+968;11120;Vida;0;Balcão;667;Mensal;98.88;1186.6;Insatisfação;0
+969;10950;Vida;0;Balcão;165;Anual;1565.17;1565.17;Pressão;1
+970;12336;Vida;0;Online;517;Mensal;90.36;1084.28;Mudança de vida;0
+971;15373;Auto;0;Telefone;422;Mensal;124.5;1494.02;Administrativo;1
+972;12243;Vida;0;Balcão;537;Mensal;86.16;1033.86;Pressão;0
+973;12645;Saúde;1;Online;364;Mensal;28.12;337.41;Administrativo;0
+974;14612;Auto;0;Online;568;Mensal;69.91;838.96;Concorrência;0
+975;11865;Saúde;1;Online;772;Mensal;77.78;933.33;Mudança de vida;0
+976;16028;Auto;1;Balcão;196;Mensal;38.41;460.92;Insatisfação;0
+977;17326;Vida;1;Balcão;40;Anual;399.89;399.89;Pressão;0
+978;16371;Auto;1;Balcão;269;Mensal;89.61;1075.33;Pressão;0
+979;16359;Vida;1;Balcão;430;Mensal;31.07;372.82;Insatisfação;0
+980;17863;Vida;0;Balcão;538;Único;5373.78;5373.78;Pressão;1
+981;13228;Saúde;0;Online;560;Anual;1401.57;1401.57;Mudança de vida;1
+982;13719;Auto;0;Balcão;313;Anual;1744.51;1744.51;Pressão;1
+983;12371;Auto;0;Telefone;951;Mensal;113.32;1359.88;Mudança de vida;1
+984;12891;Vida;1;Online;995;Mensal;149.04;1788.5;Mudança de vida;1
+985;13756;Vida;0;Online;953;Mensal;110.78;1329.41;Concorrência;1
+986;14225;Auto;1;Balcão;48;Mensal;58.19;698.32;Falta de necessidade;0
+987;10094;Vida;1;Online;498;Mensal;107.37;1288.4;Concorrência;1
+988;12674;Auto;0;Telefone;653;Único;10804.27;10804.27;Administrativo;1
+989;16898;Auto;1;Balcão;551;Mensal;68.32;819.89;Concorrência;0
+990;10793;Saúde;0;Balcão;679;Mensal;22.3;267.63;Insatisfação;0
+991;12116;Vida;0;Online;287;Mensal;111.42;1336.99;Concorrência;1
+992;15779;Saúde;1;Balcão;212;Mensal;22.82;273.85;Pressão;0
+993;16166;Vida;0;Balcão;75;Anual;1224.65;1224.65;Concorrência;1
+994;10814;Auto;1;Balcão;117;Mensal;41.27;495.24;Pressão;0
+995;10345;Saúde;0;Balcão;277;Anual;1122.34;1122.34;Pressão;0
+996;18554;Auto;0;Online;231;Único;7630.4;7630.4;Administrativo;1
+997;12443;Vida;1;Balcão;813;Mensal;21.76;261.08;Pressão;0
+998;17783;Auto;0;Telefone;539;Mensal;67.17;806.07;Mudança de vida;0
+999;10984;Saúde;0;Online;99;Único;4691.44;4691.44;Concorrência;1
+1000;17790;Vida;0;Online;702;Anual;1563.83;1563.83;Concorrência;1
